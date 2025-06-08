@@ -31,6 +31,8 @@ The queries cover:
 - **Seller Performance**: Sellers in Pará (PA) have the highest average review score of 4.5.
 - **Top Customers**: The top customer placed 15 orders and is from São Paulo, with the top 5 customers placing 7-15 orders, mostly from cities in São Paulo state (São Paulo, Praia Grande, Santos), plus Ituiutaba (Minas Gerais) and Recife (Pernambuco).
 - **Revenue Trends**: Revenue peaked in November 2017 at $1,153,528.05, likely due to Black Friday sales.
+- **High-Value Customers**: The top high-value customer spent $4,016.91 and is from São Paulo (SP). High-value customers (spending over $1,000) are primarily from São Paulo state (São Paulo, São Bernardo do Campo), with others from Rio de Janeiro (RJ) and Jacobina (BA).
+- **Optimized Revenue Query**: The optimized query (using indexes) confirms the same revenue trend, with a peak in November 2017 at $1,153,528.05, likely improving performance over the non-optimized version.
 
 ## How to Run
 1. Install MySQL and MySQL Workbench.
