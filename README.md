@@ -37,11 +37,11 @@ The queries cover:
 2. Download the Brazilian Olist Store dataset from Kaggle: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 3. Run the `Task4_Database_Setup.sql` script to create the database and import the data.
 4. Open and execute the queries in `Task4_SQL_Queries.sql` to reproduce the analysis.
-5. View the outputs in the `Screenshots/` folder.
+5. View the outputs from the images.
 
 ## Tools Used
 - MySQL for querying and analysis.
 - Dataset: Brazilian Olist Store dataset (Kaggle).
 
 ## Date and Time of Submission
-- Submitted on: 11:40 AM IST, Sunday, June 08, 2025.
+- Submitted on: 12:20 PM IST, Sunday, June 08, 2025.
